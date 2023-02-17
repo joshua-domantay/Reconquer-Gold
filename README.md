@@ -1,5 +1,6 @@
 # Reconquer-Gold
-Made for repl.it game jam 2019. Improved and updated code from https://replit.com/@Joshua_AnthonyA/Reconquer-Gold.
+Made for repl.it game jam 2019. Improved and updated code from https://replit.com/@Joshua_AnthonyA/Reconquer-Gold. <br />
+The game is available for download on itch - https://j0shwahh.itch.io/reconquer-gold
 
 # About the game
 In this game, "Every shot counts." Your coins act as your bullets. Every shot you make will decrease the amount of money you have. Buying health costs 100 coins. Use them wisely. Made for repl.it game jam 2019.
