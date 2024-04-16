@@ -1,3 +1,5 @@
+![Reconquer Gold itch.io banner](https://img.itch.zone/aW1nLzIwMzA2MTUucG5n/original/MVYTWT.png?raw=true)<br>
+
 # Reconquer-Gold
 Made for repl.it game jam 2019. Improved and updated code from https://replit.com/@Joshua_AnthonyA/Reconquer-Gold. <br />
 The game is available for download on itch - https://j0shwahh.itch.io/reconquer-gold
